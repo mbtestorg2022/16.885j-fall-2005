@@ -4,28 +4,299 @@ title: Calendar
 uid: d89bcc12-545b-fac4-2548-ca4aedfd5088
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | The Origins of the Space Shuttle |  |
-| 2 | Space Shuttle History | Short bio due before class |
-| 3 | Orbiter Sub-System Design |  |
-| 4 | The Decision to Build the Shuttle | Paragraph and preferences for case study topic due |
-| 5 | Orbiter Structure + Thermal Protection System |  |
-| 6 | Propulsion - Space Shuttle Main Engines |  |
-| 7 | Aerodynamics - (From Sub - to Hypersonic and Back) |  |
-| 8 | Landing and Mechanical Systems |  |
-| 9 | OMS, RCS, Fuel Cells, Auxiliary Power Unit and Hydraulic Systems | Initial report outline plus list of reference materials due in class |
-| 10 | The DoD and the Space Shuttle |  |
-| 11 | Use of Subsystems as a Function of Flight Phase |  |
-| 12 | Aerothermodynamics | First lecture journal due in class |
-| 13 | Environmental Control Systems |  |
-| 14 | Ground Operations - Launching the Shuttle |  |
-| 15 | Space Shuttle Accidents | Version II of written report due |
-| 16 | Guidance, Navigation and Control |  |
-| 17 | Mission Control 1 |  |
-| 18 | Mission Control 2 |  |
-| 19 | Design Process as it Relates to the Shuttle | Version III written report due in class |
-| 20 | EVA and Robotics on the Shuttle |  |
-| 21 | Systems Engineering for Space Shuttle Payloads |  |
-| 22 | Test Flying the Space Shuttle | Oral reports due  {{< br >}}  {{< br >}}Final written report due in class |
-| 23 | Class Feedback and Wrap up |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+The Origins of the Space Shuttle
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Space Shuttle History
+{{< tdclose >}}
+{{< tdopen >}}
+Short bio due before class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Orbiter Sub-System Design
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Decision to Build the Shuttle
+{{< tdclose >}}
+{{< tdopen >}}
+Paragraph and preferences for case study topic due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Orbiter Structure + Thermal Protection System
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Propulsion - Space Shuttle Main Engines
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Aerodynamics - (From Sub - to Hypersonic and Back)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Landing and Mechanical Systems
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+OMS, RCS, Fuel Cells, Auxiliary Power Unit and Hydraulic Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Initial report outline plus list of reference materials due in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The DoD and the Space Shuttle
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Use of Subsystems as a Function of Flight Phase
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Aerothermodynamics
+{{< tdclose >}}
+{{< tdopen >}}
+First lecture journal due in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Environmental Control Systems
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Ground Operations - Launching the Shuttle
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Space Shuttle Accidents
+{{< tdclose >}}
+{{< tdopen >}}
+Version II of written report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Guidance, Navigation and Control
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Mission Control 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Mission Control 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Design Process as it Relates to the Shuttle
+{{< tdclose >}}
+{{< tdopen >}}
+Version III written report due in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+EVA and Robotics on the Shuttle
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Systems Engineering for Space Shuttle Payloads
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Test Flying the Space Shuttle
+{{< tdclose >}}
+{{< tdopen >}}
+Oral reports due  
+  
+Final written report due in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Class Feedback and Wrap up
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
