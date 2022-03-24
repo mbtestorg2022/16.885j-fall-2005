@@ -24,7 +24,7 @@ REPORTS
 Defense Acquisition University Press. "System Engineering Fundamentals." January 2001.
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF ‑ 1.2 MB]({{< baseurl >}}/resources/sefguide_01_01))
+([PDF ‑ 1.2 MB]({{< baseurl >}}/resources/sefguide_01_01))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +51,7 @@ Aldridge, E. C. Pete, Jr. "Assured Access: 'The Bureaucratic Space War'."
 Mackey, Alden C., and Ralph E. Gatto. "Structural Load Challenges During Space Shuttle Development."
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/moser_strl_loads))
+([PDF]({{< baseurl >}}/resources/moser_strl_loads))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +60,7 @@ Mackey, Alden C., and Ralph E. Gatto. "Structural Load Challenges During Space S
 Glynn, Philip C., and Thomas L. Moser. "Orbiter Structural Design and Verification."
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/orb_str_des_ver))
+([PDF]({{< baseurl >}}/resources/orb_str_des_ver))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +69,7 @@ Glynn, Philip C., and Thomas L. Moser. "Orbiter Structural Design and Verificati
 Moser, Thomas L. "Reliability Engineering of the Space Shuttle: Lessons Learned."
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/reliability_eng))
+([PDF]({{< baseurl >}}/resources/reliability_eng))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +87,7 @@ Moser, T. L., and W. C. Schneider. "Strength Integrity of the Space Shuttle." AI
 Modlin, C. Thomas, Jr., and George A. Zupp, Jr. "Shuttle Structural Dynamics Characteristics, The Analysis and Verification."
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/shtl_strct_dynmc))
+([PDF]({{< baseurl >}}/resources/shtl_strct_dynmc))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +96,7 @@ Modlin, C. Thomas, Jr., and George A. Zupp, Jr. "Shuttle Structural Dynamics Cha
 Cohen, Aaron, and Milton A. Silveira. "Space Shuttle Orbiter."
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF ‑ 2.2 MB]({{< baseurl >}}/resources/spce_shtl_orbtr))
+([PDF ‑ 2.2 MB]({{< baseurl >}}/resources/spce_shtl_orbtr))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +105,7 @@ Cohen, Aaron, and Milton A. Silveira. "Space Shuttle Orbiter."
 Sample Cost Projections
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/costs))
+([PDF]({{< baseurl >}}/resources/costs))
 {{< tdclose >}}
 
 {{< trclose >}}
