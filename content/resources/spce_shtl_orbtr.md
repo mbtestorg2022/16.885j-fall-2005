@@ -5,6 +5,7 @@ description: This resource contains information on general outline, engineering 
   space shuttle test flights and space shuttle operations.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-885j-aircraft-systems-engineering-fall-2005/74d843a0eff8eb0d8e1a43d18467291e_spce_shtl_orbtr.pdf
 file_type: application/pdf
+parent_uid: 3ae2825f-e96a-4412-1b63-48f204147d10
 resourcetype: Document
 title: spce_shtl_orbtr.pdf
 uid: 74d843a0-eff8-eb0d-8e1a-43d18467291e

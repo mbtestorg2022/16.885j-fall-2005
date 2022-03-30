@@ -5,6 +5,7 @@ description: This resource contains information on space shuttle structural dyna
   orbital flight test program result.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-885j-aircraft-systems-engineering-fall-2005/807a633f3d64d5316e79f4476028e6fd_moser_strl_loads.pdf
 file_type: application/pdf
+parent_uid: 3ae2825f-e96a-4412-1b63-48f204147d10
 resourcetype: Document
 title: moser_strl_loads.pdf
 uid: 807a633f-3d64-d531-6e79-f4476028e6fd

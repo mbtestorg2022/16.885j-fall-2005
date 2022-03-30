@@ -6,6 +6,7 @@ description: This resource contains information contains information on CXO over
   facility and on-orbit proton radiation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-885j-aircraft-systems-engineering-fall-2005/69adb32120ccccce3f6aab2085f20799_lav_chan_sys_eng.pdf
 file_type: application/pdf
+parent_uid: d240db3b-e49a-f071-bd2f-1f257ed6d1c9
 resourcetype: Document
 title: lav_chan_sys_eng.pdf
 uid: 69adb321-20cc-ccce-3f6a-ab2085f20799

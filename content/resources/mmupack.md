@@ -9,6 +9,7 @@ image_metadata:
     backpack.
   credit: 'Credit: Image courtesy of NASA.'
   image-alt: Manned Maneuvering Unit (MMU).
+parent_uid: 96328a21-c2d8-a614-cd21-47cefc1ed75c
 resourcetype: Image
 title: mmupack.jpg
 uid: e19ec52d-3aa5-10b6-b135-691940bdbf9f

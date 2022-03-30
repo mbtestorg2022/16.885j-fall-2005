@@ -5,6 +5,7 @@ description: This resource contains information on top level requirements, shutt
   and orbiter sub-systems.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-885j-aircraft-systems-engineering-fall-2005/ef5f7b759c0b198e4ff0b863305e4e42_cohen_shtl_hist.pdf
 file_type: application/pdf
+parent_uid: d240db3b-e49a-f071-bd2f-1f257ed6d1c9
 resourcetype: Document
 title: cohen_shtl_hist.pdf
 uid: ef5f7b75-9c0b-198e-4ff0-b863305e4e42

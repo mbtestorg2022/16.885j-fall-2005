@@ -9,6 +9,7 @@ description: This resource contains information on systems engineering process o
   and summary.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-885j-aircraft-systems-engineering-fall-2005/6128a102c1a9b6dbd30f2fb18c12aa64_sefguide_01_01.pdf
 file_type: application/pdf
+parent_uid: 3ae2825f-e96a-4412-1b63-48f204147d10
 resourcetype: Document
 title: sefguide_01_01.pdf
 uid: 6128a102-c1a9-b6db-d30f-2fb18c12aa64
